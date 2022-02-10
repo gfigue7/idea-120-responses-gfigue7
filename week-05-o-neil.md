@@ -13,7 +13,8 @@ I know many teachers who have problem students.
 They teach to the best of their ability but they may fall short of the standard.
 
 
-
+Another demonstration of this is in college acceptance. 
+Colleges will reject more students to go higher in ranking.
 In the book it states "The concept of a safety school is now largely extinct, thanks in great part to the U.S. News ranking. 
 As we saw in the example of TCU, it helps in the rankings to be selective.
 If an admissions office is flooded with applications, it's a sign that something is going right there. It speaks to the college's reputation. 
@@ -21,7 +22,8 @@ And if a college can reject the vast majority of those candidates, it'll probabl
 Like many of the proxies, this metric seems to make sense. It follows market movements." (chapter 3)
 
 
-In the book nit states"But let's consider McDaniel's case in terms of fairness. He happened to grow up in a poor and dangerous neighborhood.
+Another example of this is in crime rates and cause for over-policing of a particular area. 
+In the book it states"But let's consider McDaniel's case in terms of fairness. He happened to grow up in a poor and dangerous neighborhood.
  In this, he was unlucky. He has been surrounded by crime, and many of his acquaintances have gotten caught up in it. 
  And largely because of these circumstances—and not his own actions—he has been deemed dangerous. 
 Now the police have their eye on him. 
