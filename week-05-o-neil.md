@@ -1,5 +1,6 @@
 In this file give an example in about 3 paragraphs of a 'WMD' as O'Neil describes it.
 
+# Weapons Of Math Destruction by Cathy O'Brien
 
 In Weapons Of Math Destruction by Cathy O'Brien she warns of the dangers of algorithms models to make decisions in our society. 
 We see this in the education system and how teachers are reflected based on scores.
@@ -10,6 +11,7 @@ It's hard to know, and Mathematica's models have only a few numbers to compare. 
 You can't judge a child's personality based on an algorithm. 
 I know many teachers who have problem students.
 They teach to the best of their ability but they may fall short of the standard.
+
 
 
 In the book it states "The concept of a safety school is now largely extinct, thanks in great part to the U.S. News ranking. 
